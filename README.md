@@ -1,10 +1,8 @@
 ### Olá! eu sou a Dayane Alves 👋
 ##
-<div>
-  <a href="htts://github.com/dayaneAlls">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneAlls&show_icons=true&theme=dracula&include_all_commits=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneAlls&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+
+![Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayaneAlls&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneAlls&layout=compact&theme=dracula)](https://github.com/dayaneAlls/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
