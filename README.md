@@ -20,5 +20,5 @@ Construir e evoluir aplicativos que impactem pessoas positivamente, enquanto apr
 
 ## 📬 Vamos nos conectar!
 Se você procura alguém dedicada, criativa e com vontade de aprender, vamos conversar!  
-🔗 [LinkedIn](https://www.linkedin.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dayanealvs/)
 
