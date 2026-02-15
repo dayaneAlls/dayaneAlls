@@ -1,22 +1,24 @@
-### Olá! eu sou a Dayane Alves 👋
-##
+# Olá! 👋 Eu sou Dayne Alves
 
-![Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayaneAlls&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneAlls&layout=compact&theme=dracula)](https://github.com/dayaneAlls/github-readme-stats)
+Sou uma desenvolvedora apaixonada por tecnologia, em busca de novas oportunidades para crescer e contribuir no mercado de **iOS Development**.  
 
-<div style="display: inline_block"><br>
-  <img align="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
-  <img align="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+Formada em **Análise e Desenvolvimento de Sistemas** pela **FATEC**, estou sempre em busca de aprender novas ferramentas, explorar tendências e criar soluções que façam a diferença.
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/dayanealvs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
- 
+## 💻 Sobre mim
+- Experiência com desenvolvimento **iOS** e interesse em novas tecnologias mobile.
+- Habilidade em resolver problemas e criar aplicativos intuitivos e funcionais.
+- Entusiasta de boas práticas de código, design limpo e experiência do usuário.
+
+---
+
+## 🚀 Meu objetivo
+Construir e evoluir aplicativos que impactem pessoas positivamente, enquanto aprimoro minhas habilidades como desenvolvedora iOS e contribuo para projetos inovadores.
+
+---
+
+## 📬 Vamos nos conectar!
+Se você procura alguém dedicada, criativa e com vontade de aprender, vamos conversar!  
+🔗 [LinkedIn](https://www.linkedin.com)  
+
